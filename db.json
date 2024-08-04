@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "ddd",
+      "email": "ddd",
+      "password": "ddd"
+    }
+  ],
+  "students": [
+    {
+      "firstName": "daw",
+      "lastName": "daw",
+      "group": "n58",
+      "id": "43ba"
+    },
+    {
+      "id": "6be4",
+      "firstName": "ds",
+      "lastName": "sd",
+      "group": "ds"
+    }
+  ],
+  "teachers": [
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "level": "Senior",
+      "id": "2"
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Brown",
+      "level": "Middle",
+      "id": "3"
+    },
+    {
+      "firstName": "rff",
+      "lastName": "rrf",
+      "level": "Middle",
+      "id": "991f"
+    }
+  ]
+}
